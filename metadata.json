@@ -1,0 +1,8 @@
+{
+  "name": "Fixa - Location-Based Service Marketplace",
+  "description": "A production-ready platform connecting clients with skilled local service providers for plumbing, electrical, and other home services with M-Pesa integration.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
